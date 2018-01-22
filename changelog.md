@@ -1,3 +1,12 @@
+# v0.5
+
+* Formatted quote display
+
+# v0.4
+
+* Added new page to display quote along with picture when picture of actor is
+  clicked
+
 # v0.3
 
 * Added tooltip
