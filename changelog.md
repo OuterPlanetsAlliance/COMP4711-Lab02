@@ -1,3 +1,7 @@
+# v0.3
+
+* Added tooltip
+
 # v0.2
 
 * Added John Hurt image and quote
